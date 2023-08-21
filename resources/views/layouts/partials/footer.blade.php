@@ -10,8 +10,8 @@
 
                         <div class="footer-language"> <i class="lni ti-world"></i>
                             <select onchange="location = this.value;">
-                                <option value="http://zamindarhotel.pears.info/">English</option>
-                                <option value="http://zamindarhotel.pears.info/">German</option>
+                                <option value="http://theheritagegp.com/">English</option>
+                                <option value="http://theheritagegp.com/">German</option>
                             </select>
                         </div>
                     </div>
@@ -34,7 +34,7 @@
                         <p class="footer-contact-text">98 McLeod Rd, Garhi Shahu, Lahore, Punjab 54000<br>Pakistan</p>
                         <div class="footer-contact-info">
                             <p class="footer-contact-phone"><span class="flaticon-call"></span> (042) 37222354</p>
-                            <p class="footer-contact-mail">info@zamindarhotel.com</p>
+                            <p class="footer-contact-mail">zamindarhotel@theheritagegp.com</p>
                         </div>
                         <div class="footer-about-social-list">
                             <a href="#"><i class="ti-instagram"></i></a>
@@ -53,7 +53,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="footer-bottom-inner">
-                        <p class="footer-bottom-copy-right">© Copyright 2023 by <a href="#">zamindarhotel.pears.info</a></p>
+                        <p class="footer-bottom-copy-right">© Copyright 2023 by <a href="#">theheritagegp.com</a></p>
                     </div>
                 </div>
             </div>

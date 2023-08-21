@@ -28,7 +28,7 @@
                 <p>Zamindar Hotel & Restaurant Lahore is a harmonious blend of historical charm and modern luxury, offering a unique experience in the heart of the city. With meticulously curated rooms, top-notch amenities, and a delectable culinary journey, we provide a haven for both travelers and locals alike.</p>
 
                     <p>Nestled within Lahore's cultural tapestry, Zamindar Hotel & Restaurant embraces its heritage while embracing the demands of contemporary comfort. Our warm and inviting spaces, along with an eclectic menu that showcases the best of local and international cuisine, create an unparalleled destination for memorable moments.</p>
-                    
+
                         <p>At Zamindar Hotel & Restaurant, we invite you to discover a fusion of tradition and elegance. Our carefully designed accommodations and a restaurant that's a celebration of flavors provide an immersive experience where history meets hospitality, making every visit an unforgettable one.</p>
                 <div class="reservations mb-30">
                     <div class="icon"><span class="flaticon-call"></span></div>
@@ -39,7 +39,7 @@
                 <div class="reservations mb-30">
                     <div class="icon"><span class="flaticon-envelope"></span></div>
                     <div class="text">
-                        <p>Email Info</p> <a href="mailto:info@zamindarhotel.com">info@zamindarhotel.com</a>
+                        <p>Email Info</p> <a href="mailto:zamindarhotel@theheritagegp.com">zamindarhotel@theheritagegp.com</a>
                     </div>
                 </div>
                 <div class="reservations">

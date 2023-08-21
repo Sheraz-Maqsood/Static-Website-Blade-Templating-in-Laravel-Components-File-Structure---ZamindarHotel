@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 
-<!-- zamindarhotel.pears.info/demo/html/cappa/demo6-dark/coming-soon, Sun, 13 Aug 2023 10:10:30 GMT -->
+<!-- theheritagegp.com/demo/html/cappa/demo6-dark/coming-soon, Sun, 13 Aug 2023 10:10:30 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -143,5 +143,5 @@
     </script>
 </body>
 
-<!-- zamindarhotel.pears.info/demo/html/cappa/demo6-dark/coming-soon, Sun, 13 Aug 2023 10:10:30 GMT -->
+<!-- theheritagegp.com/demo/html/cappa/demo6-dark/coming-soon, Sun, 13 Aug 2023 10:10:30 GMT -->
 </html>

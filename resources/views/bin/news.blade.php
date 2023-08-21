@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 
-<!-- zamindarhotel.pears.info/demo/html/cappa/demo6-dark/news, Sun, 13 Aug 2023 10:10:30 GMT -->
+<!-- theheritagegp.com/demo/html/cappa/demo6-dark/news, Sun, 13 Aug 2023 10:10:30 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -228,7 +228,7 @@
             </div>
         </div>
     </section>
-    
+
 @include('layouts.components.reservation-and-booking-index')
 
 @include('layouts.components.clients-logo-index')
@@ -270,7 +270,7 @@
                                 <p class="footer-contact-text">98 McLeod Rd, Garhi Shahu, Lahore, Punjab 54000<br>Pakistan</p>
                                 <div class="footer-contact-info">
                                         <p class="footer-contact-phone"><span class="flaticon-call"></span> (042) 37222354</p>
-                                        <p class="footer-contact-mail">info@zamindarhotel.com</p>
+                                        <p class="footer-contact-mail">zamindarhotel@theheritagegp.com</p>
                                 </div>
                                 <div class="footer-about-social-list">
                                     <a href="#"><i class="ti-instagram"></i></a>
@@ -289,7 +289,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="footer-bottom-inner">
-                                <p class="footer-bottom-copy-right">© Copyright 2023 by <a href="#">zamindarhotel.pears.info</a></p>
+                                <p class="footer-bottom-copy-right">© Copyright 2023 by <a href="#">theheritagegp.com</a></p>
                             </div>
                         </div>
                     </div>
@@ -317,5 +317,5 @@
     <script src="js/custom.js"></script>
 </body>
 
-<!-- zamindarhotel.pears.info/demo/html/cappa/demo6-dark/news, Sun, 13 Aug 2023 10:10:30 GMT -->
+<!-- theheritagegp.com/demo/html/cappa/demo6-dark/news, Sun, 13 Aug 2023 10:10:30 GMT -->
 </html>
