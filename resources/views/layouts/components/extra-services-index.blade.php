@@ -6,7 +6,7 @@
                 <div class="section-subtitle"><span>Best Prices</span></div>
                 <div class="section-title">Extra Services</div>
                 <p class="color-2">Elevate Your Stay: Experience more than just a vacation at Zamindar Hotel. Our extra services, from spa treatments to personalized tours, ensure your stay is exceptional.</p>
-    
+
                    <p class="color-2">  Affordable Extras: Enjoy affordable luxury with our carefully crafted extra services. Treat yourself to spa indulgence and personalized experiences without exceeding your budget.</p>
                    <p class="color-2">  Tailored Relaxation: Unwind like never before with our thoughtful extra services. Private yoga sessions and personalized room touches make your vacation truly unforgettable.</p>
                 <div class="reservations mb-30">
@@ -24,9 +24,9 @@
                             <div class="name">Room cleaning</div>
                             <div class="amount">Rs. 2000/- <span>/ month</span></div>
                             <ul class="list-unstyled list">
-                                <li><i class="ti-check"></i> Hotel ut nisan the duru</li>
-                                <li><i class="ti-check"></i> Orci miss natoque vasa ince</li>
-                                <li><i class="ti-close unavailable"></i>Clean sorem ipsum morbin</li>
+                                <li><i class="ti-check"></i> Daily Sanitization Assurance</li>
+                                <li><i class="ti-check"></i> Expert Housekeeping Attention</li>
+                                <li><i class="ti-close unavailable"></i>Weekend Cleaning Exclusion</li>
                             </ul>
                         </div>
                     </div>
@@ -60,9 +60,9 @@
                             <div class="name">Safe & Secure</div>
                             <div class="amount">Rs. 500/- <span>/ daily</span></div>
                             <ul class="list-unstyled list">
-                                <li><i class="ti-check"></i> Hotel ut nisan the duru</li>
-                                <li><i class="ti-check"></i> Orci miss natoque vasa ince</li>
-                                <li><i class="ti-close unavailable"></i>Clean sorem ipsum morbin</li>
+                                <li><i class="ti-check"></i> 24/7 Security Vigilance</li>
+                                <li><i class="ti-check"></i> Contactless Check-In Available</li>
+                                <li><i class="ti-close unavailable"></i>Limited Surveillance Coverage</li>
                             </ul>
                         </div>
                     </div>

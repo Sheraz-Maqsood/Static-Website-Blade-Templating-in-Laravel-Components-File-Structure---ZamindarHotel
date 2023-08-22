@@ -78,7 +78,7 @@
  </header>
  @include('layouts.components.about-para-index')
  @include('layouts.components.rooms-index')
- 
+
  @include('layouts.components.extra-services-index')
  <!-- Promo Video -->
  <section class="video-wrapper video section-padding bg-img bg-fixed" data-overlay-dark="3" data-background="img/slider/2.jpg">
@@ -87,10 +87,10 @@
                  <div class="col-md-8 offset-md-2 text-center">
                     <span><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></span>
                      <div class="section-subtitle"><span>Zamindar Hotel</span></div>
-                     <div class="section-title"><span>Promotional Video</span></div>
+                     <div class="section-title"><span>Lahore Best Five Star Hotel and Resturant</span></div>
                  </div>
              </div>
-             <div class="row">
+             {{-- <div class="row">
                  <div class="text-center col-md-12">
                      <a class="vid" href="https://youtu.be/7BGNAGahig8">
                      <div class="vid-butn">
@@ -101,12 +101,12 @@
                  </a>
                  </div>
 
-             </div>
+             </div> --}}
          </div>
  </section>
- 
+
  @include('layouts.components.facilities-hotel-index')
- 
+
  @include('layouts.components.testimonials-guests-index')
  <!-- Services -->
  <section class="services section-padding">
@@ -124,7 +124,7 @@
                              <h6>Discover</h6>
                          </div>
                          <h4>The Restaurant</h4>
-                         <p>Restaurant inilla duiman at elit finibus viverra nec a lacus themo the nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru the ivite dianne onen nivami acsestion augue artine.</p>
+                         <p>Experience a culinary voyage that fuses the richness of Pakistani flavors with international inspirations at The Restaurant. Our delectable menu and inviting ambiance promise a memorable dining journey for both connoisseurs and explorers of taste.</p>
                          <div class="butn-dark"> <a href="restaurant"><span>Learn More</span></a> </div>
                      </div>
                  </div>
@@ -137,8 +137,8 @@
                          <div class="info">
                              <h6>Experiences</h6>
                          </div>
-                         <h4>Spa Center</h4>
-                         <p>Spa center inilla duiman at elit finibus viverra nec a lacus themo the nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru the ivite dianne onen nivami acsestion augue artine.</p>
+                         <h4>The Cafe</h4>
+                         <p>Discover a cozy retreat at The Cafe, where aromatic brews and delectable treats come together in a warm and inviting ambiance. Indulge in moments of relaxation while savoring a delightful range of beverages and bites.</p>
                          <div class="butn-dark"> <a href="spa-wellness"><span>Learn More</span></a> </div>
                      </div>
                  </div>
@@ -161,34 +161,17 @@
                          <div class="info">
                              <h6>Modern</h6>
                          </div>
-                         <h4>Fitness Center</h4>
-                         <p>Restaurant inilla duiman at elit finibus viverra nec a lacus themo the nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru the ivite dianne onen nivami acsestion augue artine.</p>
+                         <h4>The Hotel</h4>
+                         <p>Welcome to an oasis of comfort and heritage at The Hotel. With elegantly appointed rooms, modern amenities, and a touch of local charm, we offer a serene haven for travelers to immerse themselves in the essence of our cultural heritage.</p>
                          <div class="butn-dark"> <a href="spa-wellness"><span>Learn More</span></a> </div>
                      </div>
-                 </div>
-             </div>
-         </div>
-         <div class="row">
-             <div class="col-md-6 bg-darkblack p-0 order2 valign animate-box" data-animate-effect="fadeInLeft">
-                 <div class="content">
-                     <div class="cont text-left">
-                         <div class="info">
-                             <h6>Experiences</h6>
-                         </div>
-                         <h4>The Health Club & Pool</h4>
-                         <p>The health club & pool at elit finibus viverra nec a lacus themo the nesudea seneoice misuscipit non sagie the fermen ziverra tristiue duru the ivite dianne onen nivami acsestion augue artine.</p>
-                         <div class="butn-dark"> <a href="spa-wellness"><span>Learn More</span></a> </div>
-                     </div>
-                 </div>
-             </div>
-             <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
-                 <div class="img">
-                     <a href="spa-wellness"><img src="img/spa/1.jpg" alt=""></a>
                  </div>
              </div>
          </div>
      </div>
  </section>
+
+ @include('layouts.components.team-about')
  <!-- News -->
  <section class="news section-padding bg-darkblack">
      <div class="container">
@@ -220,9 +203,9 @@
                              </div>
                          </div>
                          <div class="con"> <span class="category">
-                                 <a href="news">Spa</a>
+                                 <a href="news">Cafe</a>
                              </span>
-                             <h5><a href="post">Benefits of Spa Treatments</a></h5>
+                             <h5><a href="post">Mental Health benefits of Green Tea</a></h5>
                          </div>
                      </div>
                      <div class="item">
@@ -232,9 +215,9 @@
                              </div>
                          </div>
                          <div class="con"> <span class="category">
-                                 <a href="news">Bathrooms</a>
+                                 <a href="news">Hotel</a>
                              </span>
-                             <h5><a href="post">Hotel Bathroom Collections</a></h5>
+                             <h5><a href="post">Our New Major Reforms in Hotel</a></h5>
                          </div>
                      </div>
                      <div class="item">
@@ -282,7 +265,7 @@
          </div>
      </div>
  </section>
- 
+
 @include('layouts.components.reservation-and-booking-index')
 
 @include('layouts.components.clients-logo-index')

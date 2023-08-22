@@ -29,6 +29,6 @@ Route::get('/{view}', function ($view) {
     if (View::exists($view)) {
         return view($view);
     } else {
-        return redirect('coming-soon');
+        return redirect('404');
     }
 })->where('view', '.*');
