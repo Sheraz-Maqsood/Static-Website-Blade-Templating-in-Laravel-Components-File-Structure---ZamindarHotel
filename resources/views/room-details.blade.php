@@ -128,7 +128,7 @@
                     <li>
                         <div class="page-list-icon"> <span class="flaticon-swimming"></span> </div>
                         <div class="page-list-text">
-                            <p>Swimming Pool</p>
+                            <p>Geezer</p>
                         </div>
                     </li>
                 </ul>
@@ -149,7 +149,7 @@
             <div class="col-md-12">
                 <div class="owl-carousel owl-theme">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/rooms/1.jpg" alt=""> </div> <span class="category"><a href="rooms2">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/rooms/11.jpg" alt=""> </div> <span class="category"><a href="rooms2">Book</a></span>
                         <div class="con">
                             <h6><a href="room-details">150$ / Night</a></h6>
                             <h5><a href="room-details">Junior Suite</a> </h5>
@@ -170,7 +170,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/rooms/2.jpg" alt=""> </div> <span class="category"><a href="rooms2">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/rooms/12.jpg" alt=""> </div> <span class="category"><a href="rooms2">Book</a></span>
                         <div class="con">
                             <h6><a href="room-details">200$ / Night</a></h6>
                             <h5><a href="room-details">Family Room</a></h5>
@@ -191,7 +191,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/rooms/5.jpg" alt=""> </div> <span class="category"><a href="rooms2">Book</a></span>
+                        <div class="position-re o-hidden"> <img src="img/rooms/14.jpg" alt=""> </div> <span class="category"><a href="rooms2">Book</a></span>
                         <div class="con">
                             <h6><a href="room-details">250$ / Night</a></h6>
                             <h5><a href="room-details">Double Room</a></h5>

@@ -50,7 +50,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-5 mb-30 offset-md-1">
+            {{-- <div class="col-md-5 mb-30 offset-md-1">
                 <h3>Get in touch</h3>
                 <form method="post" class="contact__form" action="/mail.php">
                     <!-- form message -->
@@ -81,7 +81,7 @@
                         </div>
                     </div>
                 </form>
-            </div>
+            </div> --}}
         </div>
         <!-- Map Section -->
         <div class="row">

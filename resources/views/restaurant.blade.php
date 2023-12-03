@@ -13,9 +13,9 @@
  <header class="header slider">
     <div class="owl-carousel owl-theme">
         <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
-        <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/restaurant/1.jpg"></div>
-        <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/restaurant/2.jpg"></div>
-        <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/restaurant/3.jpg"></div>
+        <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/restaurant/4.jpg"></div>
+        <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/restaurant/6.jpg"></div>
+        <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/restaurant/5.jpg"></div>
     </div>
     <!-- arrow down -->
     <div class="arrow bounce text-center">
@@ -83,10 +83,10 @@
                     <div class="tabs-icon col-md-10 offset-md-1 text-center">
                         <div class="owl-carousel owl-theme">
                             <div id="tab-1" class="active item">
-                                <h6>Starters</h6>
+                                <h6>Starter</h6>
                             </div>
                             <div id="tab-2" class="item">
-                                <h6>Mains</h6>
+                                <h6>Salad</h6>
                             </div>
                             <div id="tab-3" class="item">
                                 <h6>Salads</h6>
@@ -100,6 +100,9 @@
                             <div id="tab-6" class="item">
                                 <h6>Dessert</h6>
                             </div>
+                            <div id="tab-7" class="item">
+                                <h6>Dessert2</h6>
+                            </div>
                         </div>
                     </div>
                     <div class="restaurant-menu-content col-md-12">
@@ -108,30 +111,26 @@
                             <div class="row">
                                 <div class="col-md-5">
                                     <div class="menu-info">
-                                        <h5>Mozzarella Dippers <span class="price">27$</span></h5>
-                                        <p>Fried mozzarella sticks, marinara sauce</p>
+                                        <h5>Chicken Pakora <span class="price">Rs. 1200</span></h5>
+                                        <p>Full</p>
                                     </div>
                                     <div class="menu-info">
-                                        <h5>Onion Rings <span class="price">32$</span></h5>
-                                        <p>Fried onion rings, smoked aioli</p>
+                                        <h5>Chicken Adabo <span class="price">Rs. 1900</span></h5>
+                                        <p>Full</p>
                                     </div>
                                     <div class="menu-info">
-                                        <h5>Fried Jalapeno <span class="price">52$</span></h5>
-                                        <p>Fried jalapeno pickles, cheddar sauce</p>
+                                        <h5>Dhaka Chicken <span class="price">Rs. 1200</span></h5>
+                                        <p>Full</p>
                                     </div>
                                 </div>
                                 <div class="col-md-5 offset-md-2">
                                     <div class="menu-info">
-                                        <h5>Buffalo Wings <span class="price">37$</span></h5>
-                                        <p>Spicy chicken wings, blue cheese sauce, carrot, celery</p>
+                                        <h5>Special Chicken Chilli Dry <span class="price">Rs. 1250</span></h5>
+                                        <p>Full</p>
                                     </div>
                                     <div class="menu-info">
-                                        <h5>Chilli Con Carne <span class="price">32$</span></h5>
-                                        <p>Spicy ground beef, bacon, kidney beans</p>
-                                    </div>
-                                    <div class="menu-info">
-                                        <h5>Potato Skins <span class="price">42$</span></h5>
-                                        <p>Crispy potato skins; bacon & cheddar or vegetables</p>
+                                        <h5>French Fries <span class="price">Rs. 250</span></h5>
+                                        <p>Full</p>
                                     </div>
                                 </div>
                             </div>
@@ -141,12 +140,10 @@
                             <div class="row">
                                 <div class="col-md-5">
                                     <div class="menu-info">
-                                        <h5>Rusty’s Burger <span class="price">27$</span></h5>
-                                        <p>Smoked pulled beef ribs, bbq sauce, cheddar, crispy onion</p>
+                                        <h5>Chicken Apple With Pineapple Salad <span class="price">Rs. 650</span></h5>
                                     </div>
                                     <div class="menu-info">
-                                        <h5>Cajun Fish Steak <span class="price">32$</span></h5>
-                                        <p>Cajun spicied seabass, deep fried baby potatoes, side salad</p>
+                                        <h5>Russuan Salad Single Serving<span class="price">Rs. 350</span></h5>
                                     </div>
                                     <div class="menu-info">
                                         <h5>Southern Fried Chicken <span class="price">52$</span></h5>
@@ -274,6 +271,38 @@
                                 <div class="col-md-5">
                                     <div class="menu-info">
                                         <h5>Bourbon Pecan Pie <span class="price">67$</span></h5>
+                                        <p>Bourbon pecan stuffed pie, vanilla ice-cream</p>
+                                    </div>
+                                    <div class="menu-info">
+                                        <h5>New York Cheesecake <span class="price">50$</span></h5>
+                                        <p>Cheesecake, strawberry & lime salad</p>
+                                    </div>
+                                    <div class="menu-info">
+                                        <h5>Rusty’s ice-cream <span class="price">32$</span></h5>
+                                        <p>Vanilla, bourbon, cookie, chocolate ice-cream</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-5 offset-md-2">
+                                    <div class="menu-info">
+                                        <h5>S’mores <span class="price">40$</span></h5>
+                                        <p>Chocolate chip cookies, marshmallow, chocolate</p>
+                                    </div>
+                                    <div class="menu-info">
+                                        <h5>Rocky Road <span class="price">42$</span></h5>
+                                        <p>Chocolate, marshmallow, biscuit bar</p>
+                                    </div>
+                                    <div class="menu-info">
+                                        <h5>Apple & Pear Crumble <span class="price">42$</span></h5>
+                                        <p>Caramelized pear and apple, oat crumble, vanilla ice-cream</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="tab-7-content" class="cont">
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <div class="menu-info">
+                                        <h5>Bourbon22222 Pecan Pie <span class="price">67$</span></h5>
                                         <p>Bourbon pecan stuffed pie, vanilla ice-cream</p>
                                     </div>
                                     <div class="menu-info">

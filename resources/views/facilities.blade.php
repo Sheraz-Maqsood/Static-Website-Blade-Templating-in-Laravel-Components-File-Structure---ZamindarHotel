@@ -50,8 +50,8 @@
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
                     <span class="flaticon-swimming"></span>
-                    <h5>Swimming Pool</h5>
-                    <p>Swimming pool tincidunt nise ace park norttito sit space, mus nellentesque habitant.</p>
+                    <h5>Geezer</h5>
+                    <p>Hot water for your bath is available.</p>
                     <div class="facility-shape"> <span class="flaticon-swimming"></span> </div>
                 </div>
             </div>

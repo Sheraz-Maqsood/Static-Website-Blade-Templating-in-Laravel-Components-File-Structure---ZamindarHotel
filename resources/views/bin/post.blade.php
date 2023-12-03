@@ -142,7 +142,7 @@
                     </blockquote>
                     <div class="row">
                         <div class="col-md-6">
-                            <img src="img/restaurant/1.jpg" class="mb-30" alt="">
+                            <img src="img/restaurant/4.jpg" class="mb-30" alt="">
                         </div>
                         <div class="col-md-6">
                             <img src="img/restaurant/3.jpg" class="mb-30" alt="">

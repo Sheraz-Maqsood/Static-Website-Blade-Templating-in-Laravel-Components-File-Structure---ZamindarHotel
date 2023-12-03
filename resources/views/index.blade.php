@@ -14,7 +14,7 @@
  <header class="header slider-fade">
      <div class="owl-carousel owl-theme">
          <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
-         <div class="text-center item bg-img" data-overlay-dark="2" data-background="img/slider/2.jpg">
+         <div class="text-center item bg-img" data-overlay-dark="2" data-background="img/slider/10.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -34,7 +34,7 @@
                  </div>
              </div>
          </div>
-         <div class="text-center item bg-img" data-overlay-dark="2" data-background="img/slider/3.jpg">
+         <div class="text-center item bg-img" data-overlay-dark="2" data-background="img/slider/6.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -54,7 +54,7 @@
                  </div>
              </div>
          </div>
-         <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/slider/1.jpg">
+         <div class="text-center item bg-img" data-overlay-dark="3" data-background="img/slider/4.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -81,7 +81,7 @@
 
  @include('layouts.components.extra-services-index')
  <!-- Promo Video -->
- <section class="video-wrapper video section-padding bg-img bg-fixed" data-overlay-dark="3" data-background="img/slider/2.jpg">
+ <section class="video-wrapper video section-padding bg-img bg-fixed" data-overlay-dark="3" data-background="img/slider/12.jpg">
          <div class="container">
              <div class="row">
                  <div class="col-md-8 offset-md-2 text-center">
@@ -114,7 +114,7 @@
          <div class="row">
              <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                  <div class="img left">
-                     <a href="restaurant"><img src="img/restaurant/1.jpg" alt=""></a>
+                     <a href="restaurant"><img src="img/restaurant/4.jpg" alt=""></a>
                  </div>
              </div>
              <div class="col-md-6 p-0 bg-darkblack valign animate-box" data-animate-effect="fadeInRight">
@@ -145,14 +145,14 @@
              </div>
              <div class="col-md-6 p-0 order1 animate-box" data-animate-effect="fadeInRight">
                  <div class="img">
-                     <a href="spa-wellness"><img src="img/spa/3.jpg" alt=""></a>
+                     <a href="spa-wellness"><img src="img/spa/4.jpg" alt=""></a>
                  </div>
              </div>
          </div>
          <div class="row">
              <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                  <div class="img left">
-                     <a href="spa-wellness"><img src="img/spa/2.jpg" alt=""></a>
+                     <a href="spa-wellness"><img src="img/spa/5.jpg" alt=""></a>
                  </div>
              </div>
              <div class="col-md-6 p-0 bg-darkblack valign animate-box" data-animate-effect="fadeInRight">
@@ -173,7 +173,7 @@
 
  @include('layouts.components.team-about')
  <!-- News -->
- <section class="news section-padding bg-darkblack">
+ {{-- <section class="news section-padding bg-darkblack">
      <div class="container">
          <div class="row">
              <div class="col-md-12">
@@ -264,7 +264,7 @@
              </div>
          </div>
      </div>
- </section>
+ </section> --}}
 
 @include('layouts.components.reservation-and-booking-index')
 

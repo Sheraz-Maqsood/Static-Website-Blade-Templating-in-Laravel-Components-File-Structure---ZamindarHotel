@@ -1,6 +1,6 @@
 <!-- Testiominals -->
 <section class="testimonials">
-    <div class="background bg-img bg-fixed section-padding pb-0" data-background="img/slider/2.jpg" data-overlay-dark="3">
+    <div class="background bg-img bg-fixed section-padding pb-0" data-background="img/slider/12.jpg" data-overlay-dark="3">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 offset-md-2">
@@ -72,7 +72,7 @@
                                     </div>
                                 </div>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>

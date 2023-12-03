@@ -18,7 +18,7 @@
             </div>
             <div class="col-md-8">
                 <div class="owl-carousel owl-theme">
-                    <div class="pricing-card">
+                    {{-- <div class="pricing-card">
                         <img src="img/pricing/1.jpg" alt="">
                         <div class="desc">
                             <div class="name">Room cleaning</div>
@@ -29,7 +29,7 @@
                                 <li><i class="ti-close unavailable"></i>Weekend Cleaning Exclusion</li>
                             </ul>
                         </div>
-                    </div>
+                    </div> --}}
                     <div class="pricing-card">
                         <img src="img/pricing/2.jpg" alt="">
                         <div class="desc">
@@ -54,7 +54,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="pricing-card">
+                    {{-- <div class="pricing-card">
                         <img src="img/pricing/4.jpg" alt="">
                         <div class="desc">
                             <div class="name">Safe & Secure</div>
@@ -65,7 +65,7 @@
                                 <li><i class="ti-close unavailable"></i>Limited Surveillance Coverage</li>
                             </ul>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
             </div>
         </div>

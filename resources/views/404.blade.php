@@ -125,11 +125,13 @@
                     </div>
                     <div class="row text-center">
                         <div class="col-md-6 offset-md-3 text-center">
-                            <p>The page you are looking for was moved, removed, renamed or never existed.</p>
-                            <form>
+                            <p>The page you are looking for was moved, removed, renamed or never existed. In case of any query you can call us at +92 42 37222354</p>
+                            <br>
+                            <a href="/">Click here to Go Back Home</a>
+                            {{-- <form>
                                 <input type="text" name="search" placeholder="Search" required>
                                 <button>Search</button>
-                            </form>
+                            </form> --}}
                         </div>
                     </div>
                 </div>

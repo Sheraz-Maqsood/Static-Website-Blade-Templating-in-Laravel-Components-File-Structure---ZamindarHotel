@@ -15,9 +15,9 @@
                 <p>Welcome to the best five-star deluxe hotel in Lahore. At our hotel, we invite you to bask in a world of opulence and sophistication. From the moment you step through our doors, you'll be greeted by an ambiance of refined elegance and exceptional service. Each facet of your stay is meticulously designed to immerse you in a truly luxurious experience.
 
                    Our lavishly appointed rooms and suites offer a sanctuary of comfort, adorned with lavish amenities and exquisite attention to detail. Immerse yourself in the tranquility of plush bedding, relish the panoramic views of the cityscape, and revel in the seamless integration of modern convenience and classic charm.</p>
-                   
+
                    <p>   Prepare to embark on a journey of gastronomic delights at our hotel. Our culinary artisans craft dishes that are not only a feast for the taste buds but also an artistic presentation for the eyes. From sumptuous breakfast spreads that greet you with a perfect start to your day, to candlelit dinners that celebrate the magic of shared moments, each meal is an experience of its own.
-                   
+
                    Beyond your private haven, our facilities beckon you to unwind and rejuvenate. Whether you're lounging by the pool, sipping cocktails at the bar, or enjoying a therapeutic spa treatment, every moment spent within our premises is a celebration of your well-deserved luxury escape. Come, relish in the lap of luxury, and let us pamper you with a symphony of impeccable service and unparalleled comfort.</p>
                 <!-- call -->
                 <div class="reservations">
@@ -28,10 +28,13 @@
                 </div>
             </div>
             <div class="col col-md-3 animate-box" data-animate-effect="fadeInUp">
-                <img src="img/rooms/8.jpg" alt="" class="mt-90 mb-30">
+                <img src="img/rooms/16.jpg" alt="" class="mt-90 mb-30">
+                <img class="mt-4" src="img/restaurant/7.jpg" alt="">
+
             </div>
             <div class="col col-md-3 animate-box" data-animate-effect="fadeInUp">
-                <img src="img/rooms/2.jpg" alt="">
+                <img src="img/rooms/17.jpg" alt="">
+                <img src="img/rooms/11.jpg" alt="" class="mt-90 mb-30">
             </div>
         </div>
     </div>

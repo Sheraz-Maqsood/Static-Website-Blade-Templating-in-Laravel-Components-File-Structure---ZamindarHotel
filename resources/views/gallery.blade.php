@@ -31,21 +31,21 @@
             <div class="col-md-4 gallery-item">
                 <a href="img/slider/7.jpg" title="" class="img-zoom">
                     <div class="gallery-box">
-                        <div class="gallery-img"> <img src="img/slider/7.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        <div class="gallery-img"> <img src="img/slider/11.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                     </div>
                 </a>
             </div>
             <div class="col-md-4 gallery-item">
                 <a href="img/slider/5.jpg" title="" class="img-zoom">
                     <div class="gallery-box">
-                        <div class="gallery-img"> <img src="img/slider/5.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        <div class="gallery-img"> <img src="img/slider/4.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                     </div>
                 </a>
             </div>
             <div class="col-md-4 gallery-item">
                 <a href="img/slider/4.jpg" title="" class="img-zoom">
                     <div class="gallery-box">
-                        <div class="gallery-img"> <img src="img/slider/4.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        <div class="gallery-img"> <img src="img/slider/6.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                     </div>
                 </a>
             </div>
@@ -53,14 +53,14 @@
             <div class="col-md-6 gallery-item">
                 <a href="img/slider/2.jpg" title="" class="img-zoom">
                     <div class="gallery-box">
-                        <div class="gallery-img"> <img src="img/slider/2.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        <div class="gallery-img"> <img src="img/slider/8.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                     </div>
                 </a>
             </div>
             <div class="col-md-6 gallery-item">
                 <a href="img/slider/1.jpg" title="" class="img-zoom">
                     <div class="gallery-box">
-                        <div class="gallery-img"> <img src="img/slider/1.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        <div class="gallery-img"> <img src="img/slider/10.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                     </div>
                 </a>
             </div>
@@ -68,21 +68,21 @@
             <div class="col-md-4 gallery-item">
                 <a href="img/rooms/8.jpg" title="" class="img-zoom">
                     <div class="gallery-box">
-                        <div class="gallery-img"> <img src="img/rooms/8.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        <div class="gallery-img"> <img src="img/rooms/11.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                     </div>
                 </a>
             </div>
             <div class="col-md-4 gallery-item">
                 <a href="img/rooms/5.jpg" title="" class="img-zoom">
                     <div class="gallery-box">
-                        <div class="gallery-img"> <img src="img/rooms/5.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        <div class="gallery-img"> <img src="img/rooms/12.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                     </div>
                 </a>
             </div>
             <div class="col-md-4 gallery-item">
                 <a href="img/rooms/10.jpg" title="" class="img-zoom">
                     <div class="gallery-box">
-                        <div class="gallery-img"> <img src="img/rooms/10.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
+                        <div class="gallery-img"> <img src="img/rooms/16.jpg" class="img-fluid mx-auto d-block" alt="work-img"> </div>
                     </div>
                 </a>
             </div>

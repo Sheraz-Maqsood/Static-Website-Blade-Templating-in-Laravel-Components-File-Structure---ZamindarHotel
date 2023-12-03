@@ -32,11 +32,11 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="square-flip">
-                    <div class="square bg-img" data-background="img/rooms/1.jpg">
+                    <div class="square bg-img" data-background="img/rooms/11.jpg">
                         <span class="category"><a href="rooms2">Book</a></span>
                         <div class="square-container d-flex align-items-end justify-content-end">
                             <div class="box-title">
-                                <h6>150$ / Night</h6>
+                                <h6>Rs.6000 / Night</h6>
                                 <h4>Junior Suite</h4>
                             </div>
                         </div>
@@ -44,19 +44,19 @@
                     </div>
                     <div class="square2">
                         <div class="square-container2">
-                            <h6>150$ / Night</h6>
+                            <h6>Rs.6000  / Night</h6>
                             <h4>Junior Suite</h4>
-                            <p>Hotel viverra tristique ustoni miss vitae sediam neque nivamus aestan.</p>
+                            <p>Best option for single.</p>
                             <div class="row room-facilities mb-30">
                                 <div class="col-md-6">
                                     <ul>
-                                        <li><i class="flaticon-group"></i> 1-2 Persons</li>
+                                        <li><i class="flaticon-group"></i> 1 Person</li>
                                         <li><i class="flaticon-wifi"></i> Free Wifi</li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6">
                                     <ul>
-                                       <li><i class="flaticon-bed"></i> Twin Bed</li>
+                                       <li><i class="flaticon-bed"></i> Single Bed</li>
                                        <li><i class="flaticon-breakfast"></i> Breakfast</li>
                                     </ul>
                                 </div>
@@ -68,11 +68,11 @@
             </div>
             <div class="col-md-4">
                 <div class="square-flip">
-                    <div class="square bg-img" data-background="img/rooms/2.jpg">
+                    <div class="square bg-img" data-background="img/rooms/12.jpg">
                         <span class="category"><a href="rooms2">Book</a></span>
                         <div class="square-container d-flex align-items-end justify-content-end">
                             <div class="box-title">
-                                <h6>200$ / Night</h6>
+                                <h6>Rs.8000  / Night</h6>
                                 <h4>Family Room</h4>
                             </div>
                         </div>
@@ -80,9 +80,9 @@
                     </div>
                     <div class="square2">
                         <div class="square-container2">
-                            <h6>200$ / Night</h6>
+                            <h6>Rs.8000  / Night</h6>
                             <h4>Family Room</h4>
-                            <p>Hotel viverra tristique ustoni miss vitae sediam neque nivamus aestan.</p>
+                            <p>Best option for couples.</p>
                             <div class="row room-facilities mb-30">
                                 <div class="col-md-6">
                                     <ul>
@@ -92,7 +92,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <ul>
-                                       <li><i class="flaticon-bed"></i> Twin Bed</li>
+                                       <li><i class="flaticon-bed"></i> Single Bed</li>
                                        <li><i class="flaticon-breakfast"></i> Breakfast</li>
                                     </ul>
                                 </div>
@@ -104,11 +104,11 @@
             </div>
             <div class="col-md-4">
                 <div class="square-flip">
-                    <div class="square bg-img" data-background="img/rooms/3.jpg">
+                    <div class="square bg-img" data-background="img/rooms/14.jpg">
                         <span class="category"><a href="rooms2">Book</a></span>
                         <div class="square-container d-flex align-items-end justify-content-end">
                             <div class="box-title">
-                                <h6>250$ / Night</h6>
+                                <h6>Rs.9000  / Night</h6>
                                 <h4>Double Room</h4>
                             </div>
                         </div>
@@ -116,9 +116,9 @@
                     </div>
                     <div class="square2">
                         <div class="square-container2">
-                            <h6>250$ / Night</h6>
+                            <h6>Rs.9000  / Night</h6>
                             <h4>Double Room</h4>
-                            <p>Hotel viverra tristique ustoni miss vitae sediam neque nivamus aestan.</p>
+                            <p>Recomended for friends.</p>
                             <div class="row room-facilities mb-30">
                                 <div class="col-md-6">
                                     <ul>
@@ -144,7 +144,7 @@
                         <span class="category"><a href="rooms2">Book</a></span>
                         <div class="square-container d-flex align-items-end justify-content-end">
                             <div class="box-title">
-                                <h6>300$ / Night</h6>
+                                <h6>Rs.12000 / Night</h6>
                                 <h4>Deluxe Room</h4>
                             </div>
                         </div>
@@ -152,9 +152,9 @@
                     </div>
                     <div class="square2">
                         <div class="square-container2">
-                            <h6>300$ / Night</h6>
+                            <h6>Rs.12000 / Night</h6>
                             <h4>Deluxe Room</h4>
-                            <p>Hotel viverra tristique ustoni miss vitae sediam neque nivamus aestan.</p>
+                            <p>Expirience Ultra luxary lifestyle.</p>
                             <div class="row room-facilities mb-30">
                                 <div class="col-md-6">
                                     <ul>
@@ -180,7 +180,7 @@
                         <span class="category"><a href="rooms2">Book</a></span>
                         <div class="square-container d-flex align-items-end justify-content-end">
                             <div class="box-title">
-                                <h6>350$ / Night</h6>
+                                <h6>Rs.12000 / Night</h6>
                                 <h4>Superior Room</h4>
                             </div>
                         </div>
@@ -188,9 +188,9 @@
                     </div>
                     <div class="square2">
                         <div class="square-container2">
-                            <h6>350$ / Night</h6>
+                            <h6>Rs.12000 / Night</h6>
                             <h4>Superior Room</h4>
-                            <p>Hotel viverra tristique ustoni miss vitae sediam neque nivamus aestan.</p>
+                            <p>Expirience Ultra luxary lifestyle.</p>
                             <div class="row room-facilities mb-30">
                                 <div class="col-md-6">
                                     <ul>
@@ -216,7 +216,7 @@
                         <span class="category"><a href="rooms2">Book</a></span>
                         <div class="square-container d-flex align-items-end justify-content-end">
                             <div class="box-title">
-                                <h6>400$ / Night</h6>
+                                <h6>Rs.15000 / Night</h6>
                                 <h4>Wellness Room</h4>
                             </div>
                         </div>
@@ -224,9 +224,9 @@
                     </div>
                     <div class="square2">
                         <div class="square-container2">
-                            <h6>400$ / Night</h6>
+                            <h6>Rs.15000 / Night</h6>
                             <h4>Wellness Room</h4>
-                            <p>Hotel viverra tristique ustoni miss vitae sediam neque nivamus aestan.</p>
+                            <p>Expirience Ultra luxary lifestyle.</p>
                             <div class="row room-facilities mb-30">
                                 <div class="col-md-6">
                                     <ul>

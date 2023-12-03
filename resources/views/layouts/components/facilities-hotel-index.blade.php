@@ -35,8 +35,8 @@
             <div class="col-md-4">
                 <div class="single-facility animate-box" data-animate-effect="fadeInUp">
                     <span class="flaticon-swimming"></span>
-                    <h5>Swimming Pool</h5>
-                    <p>"Relax and unwind in our inviting and clean swimming pool.</p>
+                    <h5>Geezer</h5>
+                    <p>"Relax and unwind in our clean bathrooms with hot water.</p>
                     <div class="facility-shape"> <span class="flaticon-swimming"></span> </div>
                 </div>
             </div>

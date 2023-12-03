@@ -26,7 +26,7 @@
             <div class="row">
                 <div class="col-md-6 p-0 animate-box" data-animate-effect="fadeInLeft">
                     <div class="img left">
-                        <a href="restaurantg src="img/restaurant/1.jpg" alt=""></a>
+                        <a href="restaurantg src="img/restaurant/4.jpg" alt=""></a>
                     </div>
                 </div>
                 <div class="col-md-6 p-0 bg-darkblack valign animate-box" data-animate-effect="fadeInRight">
@@ -101,7 +101,7 @@
             </div>
         </div>
     </section>
-  
+
 @include('layouts.components.reservation-and-booking-index')
 
 @include('layouts.components.clients-logo-index')
