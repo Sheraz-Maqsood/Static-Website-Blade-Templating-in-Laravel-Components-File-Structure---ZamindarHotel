@@ -46,7 +46,7 @@
                     <div class="img"> <img src="img/team/8.jpeg" alt=""> </div>
                     <div class="info">
                         <h6>Malik Aadil Maqsood</h6>
-                        <p>Hotel & Restaurant Manager</p>
+                        <p>Cafe & Restaurant Manager</p>
                         <div class="social valign">
                             <div class="social valign">
                                 <div class="full-width">
